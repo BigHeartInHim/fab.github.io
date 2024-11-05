@@ -1,0 +1,6 @@
+.uniform-image {
+    width: 200px; /* Define a consistent width */
+    height: 150px; /* Define a consistent height */
+    object-fit: cover; /* Ensures the image fills the dimensions without distortion */
+    border-radius: 5px; /* Optional: rounds corners */
+}
