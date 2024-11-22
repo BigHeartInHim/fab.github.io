@@ -1,8 +1,6 @@
 
 
 Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license
 
 Massively is a text-heavy, article-oriented design built around a large background image with a parallax effect and custom scroll effects powered by Scrollex. This design is a slight departure from one-page layouts, fulfilling some user requests and testing new techniques.
 
